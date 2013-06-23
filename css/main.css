@@ -1,0 +1,26 @@
+body {
+    background-image: url('/img/Watching_the_Show.jpg')!important;
+    background-position: center center!important;
+    background-repeat: no-repeat!important;
+    background-color: Black;
+}
+
+body, .ugly-text {
+    /*color:rgb(0,255,255);*/
+    color: #71A5D9;
+    font-family:trebuchet ms,sans-serif;
+}
+
+a {
+    color: #10A0E8;
+}
+
+
+.container {
+    background-color: Black;
+    padding: 10px 20px;
+}
+
+.center {
+    text-align: center;
+}
